@@ -1,0 +1,6 @@
+Asignar Vigilantes a un Examen
+Actores:                  Objetivo:
+Secretario                asignar un turno a un examen
+Profesor responsable      solucionar vigilantes
+Secretario                validar o asignar vigilantes
+Profesor                  confirmar vigilancia
