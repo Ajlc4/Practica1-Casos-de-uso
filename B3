@@ -1,0 +1,10 @@
+Celebraciones
+Actores:                  Objetivo:
+clientes                  contratar celebraciones
+                          configurar menús
+hotel                     seleccionar un maitre
+maitre                    seleccionar camareros
+camareros                 confirmar disponibilidad
+clientes                  contratar servicios adicionales
+sistema                   generar factura
+cliente                   pagar factura
