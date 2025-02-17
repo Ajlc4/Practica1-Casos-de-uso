@@ -1,0 +1,6 @@
+GOLF
+Actores:                  Objetivo:
+jugador                   inscribirse o registrarse en un torneo
+caddie master             asignar un caddie
+secretario                registrar resultados
+sistema                   actualizar handicap
