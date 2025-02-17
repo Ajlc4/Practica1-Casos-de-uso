@@ -1,0 +1,7 @@
+Centro de Salud
+Actores:                     Objetivo:
+paciente                     solicitar cita normal
+                             solicitar alta de seguimiento
+facultativo                  registrar diagnóstico
+paciente                     realizar pago
+sistema                      generar facturas
