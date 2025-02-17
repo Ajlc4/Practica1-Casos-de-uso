@@ -1,0 +1,10 @@
+Centro Penitenciario
+Actores:                      Objetivo:
+trabajador del centro         registrar preso
+sistema                       asignación de guardias
+guardia                       registrar inspección
+alcaide                       elegir castigo
+sistema                       listar presos candidatos
+alcaide                       seleccionar preso para indultar
+preso                         solicitar cambio de celda
+supervisor                    aprobar cambio de celda
